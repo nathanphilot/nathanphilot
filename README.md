@@ -1,3 +1,3 @@
-<b><p>I'm shadow, shadow the hedgehog!<p><b>
+<b><textreed>I'm shadow, shadow the hedgehog!<textreed><b>
  
-<p>I'm the ultimate life form, and I'm in search of the seven chaos emeralds to exact my revenge on the earth!<p>
+<p><textreed>I'm the ultimate life form, and I'm in search of the seven chaos emeralds to exact my revenge on the earth!<textreed><p>
