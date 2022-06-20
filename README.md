@@ -1,1 +1,3 @@
-eu sou shadow, shadow the hedgehog, sou a forma de vida suprema, e estou em busca das setes esmeraldas do chaos para cumprir a minha vingança contra a terra!
+<b>I am shadow, shadow the hedgehog<b>
+ 
+I am the ultimate life form, and I am in search of the seven chaos emeralds to exact my revenge on the earth!
